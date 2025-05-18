@@ -121,7 +121,7 @@ lib/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/reelify.git
+   git clone https://github.com/Shehzaan-Mansuri/reelify.git
    ```
 
 2. Navigate to the project directory:
