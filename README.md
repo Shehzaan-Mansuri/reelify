@@ -1,7 +1,7 @@
 # Reelify
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200" alt="Reelify Logo" width="200"/>
+  <img src="reelify_logo.png" alt="Reelify Logo" width="200"/>
 </p>
 
 Reelify is a modern short-form video viewing application built with Flutter that implements a TikTok/Instagram Reels-style experience. The application showcases best practices in mobile development including clean architecture, efficient video loading and caching strategies, and reactive state management.
@@ -153,6 +153,7 @@ Reelify implements a dual-layer caching strategy:
    - Intelligently disposes controllers for videos far from view
 
 2. **Persistent caching**:
+
    - Uses flutter_cache_manager for file caching
    - Implements SharedPreferences for metadata storage
    - Example usage:
@@ -233,6 +234,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Developer: [Your Name](mailto:shehzaanmansuri1@gmail.com)
+Developer: [Shehzaan Mansuri](mailto:shehzaanmansuri1@gmail.com)
 
-Project Link: [https://github.com/yourusername/reelify](https://github.com/yourusername/reelify)
+Project Link: [Reelify](https://github.com/Shehzaan-Mansuri/reelify)
